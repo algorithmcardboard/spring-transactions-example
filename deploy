@@ -1,0 +1,7 @@
+OK - Listed applications for virtual host localhost
+/:running:0:ROOT
+/manager:running:34:manager
+/docs:running:0:docs
+/examples:running:0:examples
+/host-manager:running:0:host-manager
+/sampleApp:running:0:sampleApp
